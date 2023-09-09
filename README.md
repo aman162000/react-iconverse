@@ -59,10 +59,10 @@ React Iconverse is open-source and released under the [MIT License](https://open
 
 ## Support and Contributions ❤️
 
-If you encounter any issues, have questions, or would like to contribute to the library, please visit the [GitHub repository](https://github.com/your-username/react-iconverse). We welcome feedback, bug reports, and pull requests from the community to make React Iconverse even better! 🙌
+If you encounter any issues, have questions, or would like to contribute to the library, please visit the [GitHub repository](https://github.com/aman162000/react-iconverse). We welcome feedback, bug reports, and pull requests from the community to make React Iconverse even better! 🙌
 
 ## Credits 🙏
 
-React Iconverse is maintained and developed by [Your Name](https://github.com/your-username). We would like to thank the open-source community for their contributions and support in making this library a valuable resource for React developers. 👏
+React Iconverse is maintained and developed by [Aman](https://github.com/aman162000). We would like to thank the open-source community for their contributions and support in making this library a valuable resource for React developers. 👏
 
 Thank you for choosing React Iconverse! We hope it enhances your React projects and simplifies your icon integration process. Happy coding! 🚀
