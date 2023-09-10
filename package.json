@@ -1,9 +1,9 @@
 {
   "name": "react-iconverse",
-  "version": "0.0.0",
+  "version": "0.0.0-development",
   "description": "A icon library for react",
   "type": "module",
-  "license":"MIT",
+  "license": "MIT",
   "sideEffects": false,
   "private": false,
   "module": "./dist/index.es.js",
@@ -12,6 +12,7 @@
     "./dist"
   ],
   "repository": {
+    "type": "git",
     "url": "https://github.com/aman162000/react-iconverse"
   },
   "author": {
@@ -39,6 +40,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "semantic-release": "semantic-release",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "assemble": "node scripts/assemble.mjs",
@@ -72,6 +74,7 @@
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "semantic-release": "^21.1.1",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
     "vite-plugin-dts": "^3.5.3"
