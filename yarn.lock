@@ -474,10 +474,10 @@
   "resolved" "https://registry.npmjs.org/@semantic-release/error/-/error-4.0.0.tgz"
   "version" "4.0.0"
 
-"@semantic-release/github@^9.0.0":
-  "integrity" "sha512-kQCGFAsBErvCR6hzNuzu63cj4erQN2krm9zQlg8vl4j5X0mL0d/Ras0wmL5Gkr1TuSS2lweME7M4J5zvtDDDSA=="
-  "resolved" "https://registry.npmjs.org/@semantic-release/github/-/github-9.0.4.tgz"
-  "version" "9.0.4"
+"@semantic-release/github@^9.0.0", "@semantic-release/github@^9.0.5":
+  "integrity" "sha512-d1ZZjMvXpSa4E1L3XjdNOqgUy00o9QZX55L75pMsb/w+1NV6CCfDYOvH8qwKygHS/rKzI3FkBTcR40ahOodsgg=="
+  "resolved" "https://registry.npmjs.org/@semantic-release/github/-/github-9.0.5.tgz"
+  "version" "9.0.5"
   dependencies:
     "@octokit/core" "^5.0.0"
     "@octokit/plugin-paginate-rest" "^8.0.0"
@@ -515,7 +515,7 @@
     "semver" "^7.1.2"
     "tempy" "^3.0.0"
 
-"@semantic-release/release-notes-generator@^11.0.0":
+"@semantic-release/release-notes-generator@^11.0.0", "@semantic-release/release-notes-generator@^11.0.7":
   "integrity" "sha512-T09QB9ImmNx7Q6hY6YnnEbw/rEJ6a+22LBxfZq+pSAXg/OL/k0siwEm5cK4k1f9dE2Z2mPIjJKKohzUm0jbxcQ=="
   "resolved" "https://registry.npmjs.org/@semantic-release/release-notes-generator/-/release-notes-generator-11.0.7.tgz"
   "version" "11.0.7"
